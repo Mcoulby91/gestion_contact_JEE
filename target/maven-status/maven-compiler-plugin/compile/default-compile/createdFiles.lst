@@ -1,0 +1,3 @@
+com\mycompany\contactservlet\contactServlet.class
+com\mycompany\contactservlet\JakartaRestConfiguration.class
+com\mycompany\contactservlet\resources\JakartaEE91Resource.class
